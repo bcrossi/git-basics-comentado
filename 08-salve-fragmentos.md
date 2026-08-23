@@ -19,11 +19,12 @@ git stash
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- remove temporariamente os arquivos modificados de staged -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- quando se quer fazer outro commit nao relacionado antes desse
+e sem perder as alteracoes feitas -->
 
 ---
 
@@ -35,11 +36,11 @@ git stash pop
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- reverte o stash e devolve os arquivos para staged-->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- para se preparar para o commit -->
 
 ---
 
@@ -51,11 +52,11 @@ git stash list
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- lista todos os arquivos em diferentes stashes -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- para consultar algum stash feito -->
 
 ---
 
@@ -67,20 +68,21 @@ git stash drop
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- exclui o stash mais recente -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- quando nao precisar mais do stash feito
+quando decidido que aquilo nao sera commitado -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git stash`
-- [ ] 2. `git stash pop`
-- [ ] 3. `git stash list`
-- [ ] 4. `git stash drop`
+- [x] 1. `git stash`
+- [x] 2. `git stash pop`
+- [x] 3. `git stash list`
+- [x] 4. `git stash drop`
 
 ---
 
