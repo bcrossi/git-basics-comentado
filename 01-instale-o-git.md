@@ -17,11 +17,12 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- é usado para controle de versionamento de um sistema, com o git.
+ usaria para manter rastreabilidade e organização no caso de trabalho conjunto com outras equipes -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- a não ser que seja um projeto simples somente com uma pessoa trabalhando, deve ser usado.  -->
 
 ---
 
@@ -31,11 +32,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- essencialmente o github online é o mesmo, independente da plataforma que o acessa -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- a não ser que seja um projeto simples somente com uma pessoa trabalhando, deve ser usado. -->
 
 ---
 
@@ -45,19 +46,20 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- se o github é a GUI o git é o controle de versionamento em si
+usaria para manter a rastreabilidade das modificações no sistema.  -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- a não ser que seja um projeto simples somente com uma pessoa trabalhando, deve ser usado.  -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [x] 1. GitHub para Windows
+- [x] 2. GitHub para Mac
+- [x] 3. Git para todas as plataformas
 
 ---
 
